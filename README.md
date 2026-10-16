@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Rong 👋
 
-<!--
-**rongat0823/rongat0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from National Cheng Kung University (NCKU), Taiwan.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 M.S. in Computer Science and Information Engineering
+- 🤖 Interested in AI/ML, Computer Vision, and Software Engineering
+- 🔬 Research experience in multimodal machine learning and inference optimization
+- 💻 Programming with Python and C++
+- 🌐 TOEIC 945
+
+## Technical Interests
+
+- Machine Learning & Deep Learning
+- Computer Vision
+- Model Inference Optimization
+- Software Development
+
+I'm currently exploring opportunities in Software Engineering and AI/ML Engineering.
