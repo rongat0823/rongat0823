@@ -1,20 +1,23 @@
 # Hi, I'm Rong 👋
 
-I'm a Computer Science graduate from National Cheng Kung University (NCKU), Taiwan.
+I'm a Computer Science master's graduate from National Cheng Kung University, interested in deep learning, computer vision, and efficient AI inference.
 
-## About Me
+I enjoy building and evaluating machine learning models, particularly exploring the trade-offs between prediction performance and computational efficiency.
 
-- 🎓 M.S. in Computer Science and Information Engineering
-- 🤖 Interested in AI/ML, Computer Vision, and Software Engineering
-- 🔬 Research experience in multimodal machine learning and inference optimization
-- 💻 Programming with Python and C++
-- 🌐 TOEIC 945
+### Tech Stack
 
-## Technical Interests
+- **Languages:** Python, C, C++
+- **AI / ML:** PyTorch, Computer Vision, Multimodal Learning
+- **Tools:** Git, Linux, GPU Profiling
 
-- Machine Learning & Deep Learning
-- Computer Vision
-- Model Inference Optimization
-- Software Development
+### Featured Project
 
-I'm currently exploring opportunities in Software Engineering and AI/ML Engineering.
+**P2PR — Efficient Multimodal Inference**
+
+My master's research project exploring dynamic inference, sample-wise routing, and prediction refinement.
+
+[View Project](https://github.com/rongat0823/P2PR)
+
+### Contact
+
+- Email: r0965433722@gmail.com
