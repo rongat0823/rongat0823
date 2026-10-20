@@ -4,12 +4,6 @@ I'm a Computer Science master's graduate from National Cheng Kung University.
 I am interested in deep learning, computer vision, and efficient AI inference.
 I have built and evaluated machine learning models, particularly exploring the trade-offs between prediction performance and computational efficiency.
 
-### Tech Stack
-
-- **Languages:** Python, C, C++
-- **AI / ML:** PyTorch, Computer Vision, Multimodal Learning
-- **Tools:** Git, Linux, GPU Profiling
-
 ### Featured Project
 
 **P2PR — Efficient Multimodal Inference**
