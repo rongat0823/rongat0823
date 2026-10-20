@@ -6,7 +6,6 @@ I am interested in deep learning, computer vision, and efficient AI inference.
 
 I have built and evaluated machine learning models, particularly exploring the trade-offs between prediction performance and computational efficiency.
 
-
 ### Featured Project
 
 **P2PR — Efficient Multimodal Inference**
