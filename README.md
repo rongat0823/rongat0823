@@ -1,8 +1,8 @@
 # Hi, I'm Rong 👋
 
-I'm a Computer Science master's graduate from National Cheng Kung University, interested in deep learning, computer vision, and efficient AI inference.
-
-I enjoy building and evaluating machine learning models, particularly exploring the trade-offs between prediction performance and computational efficiency.
+I'm a Computer Science master's graduate from National Cheng Kung University.
+I am interested in deep learning, computer vision, and efficient AI inference.
+I have built and evaluated machine learning models, particularly exploring the trade-offs between prediction performance and computational efficiency.
 
 ### Tech Stack
 
